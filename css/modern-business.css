@@ -31,3 +31,14 @@ img{
 .portfolio-item {
     margin-bottom: 30px;
 }
+
+.my-4 {
+  color: #485C5A;
+  font-family:  'Roboto', sans-serif;
+  font-size: 50px;
+}
+
+.bg-dark {
+  color:  #A31E39;
+  border:  #A31E39;
+}
